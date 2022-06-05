@@ -9,11 +9,11 @@ The overall goal of this analysis was to create a dynamic website that displays 
 
 On the left hand side of the website next to where the data is displayed, you will find the filters under the "Filter Search" heading. To use the filters to refine the data, all you need to do is type in what you're looking for, following the format of the placeholder text, and press enter. If you want to filter for multiple criteria, you would just do the same thing in a different filter and press enter again. 
 
-![Filter]()
+![Filter](https://github.com/ericajini/UFOs/blob/main/static/images/FilterSearch.png)
 
 If you want to reset the filters to see all of the data again, there is a UFO Sightings button in the top left hand corner that you will click. 
 
-![Reset]()
+![Reset](https://github.com/ericajini/UFOs/blob/main/static/images/ResetFilters.png)
 
 ## Summary 
 ### Drawbacks & Recommendations for Further Development: 
