@@ -11,12 +11,31 @@ h3 {
     text-align: center;
 }
 
-.col-md-2 {
-    text-align: center;
-}
 
 .col-md-4 {
     background-image: url("../images/green-people.jpg");
     background-size: 100% 100%;
     text-align: center;
+    
 }
+
+.col-md-8 { 
+    overflow: auto; height: 100px; width: 240px; 
+}
+.col-md-8 thead th { 
+    position: sticky; top: 0; z-index: 1;
+}
+
+th {
+    background-color: black;
+    color: white;
+} 
+
+.list-group-item {
+    background-image: url("../images/aliens.jpg");
+    text-align: right;
+    
+}
+
+/*IMAGE SOURCES: aliens - https://www.shutterstock.com/image-vector/seamless-pattern-light-purple-alien-head-1008475291
+ green-people - https://www.history.com/news/black-triangle-ufos-facts*\
